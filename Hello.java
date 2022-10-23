@@ -9,8 +9,8 @@ public static void main(String[] args) {
 	}
 
 
-List<String> names =new ArrayList<>(Arrays.as.List("Aylin","Engin"));
-
+	List<String> names =Arrays.as.List("Aylin","Engin");
+	
 	System.out.println("Hello Wolrd Names");	
 
 
