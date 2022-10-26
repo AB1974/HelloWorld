@@ -14,7 +14,15 @@ public static void main(String[] args) {
 	System.out.println("Hello Wolrd Names");	
 		System.out.println("Hello Wolrd Names");
 
+String name ="Aylin";
+String reverse ="";
 
+for (int i=name.length()-1; i>=0; i--){
+
+	reverse+=name.charat(i);
+}
+
+System.out.println("Reverse "+ reverse);	
 
 }
 
